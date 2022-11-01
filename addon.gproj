@@ -1,8 +1,0 @@
-GameProject {
- ID "UIColorG"
- GUID "5AC32B6958B39D8C"
- TITLE "UIColor_G"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}
